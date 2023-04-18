@@ -1,6 +1,6 @@
 # atls4214-project: Crime Crunch
 
-Welcome to the main repository for Crime Crunch, a project made by Ash Duy, Jaryd Meek, and Noah Nguyen for CU's ATLS 4214 - Big Data Architecture.  Code is housed in separate repositories, as described under "Navigation." 
+Welcome to the main repository for Crime Crunch, a project made by Kunal Rane, Chintan Modi, Sarthak Maniar, Ash Duy, Jaryd Meek, and Noah Nguyen for CU's ATLS 4214 - Big Data Architecture.  Code is housed in separate repositories, as described under "Navigation." 
 
 A live version can be found [here](https://crime-crunch.onrender.com).
 
