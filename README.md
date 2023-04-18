@@ -8,7 +8,7 @@ A live version can be found [here](https://crime-crunch.onrender.com).
 
 ### Repositories
 
-[Frontend](https://github.com/BigData712/frontendhttps://github.com/BigData712/frontend)
+[Frontend](https://github.com/BigData712/frontend)
 - Contains code for the frontend, hosted on Render, as well as information on how to run/deploy the project locally.  It also contains more details about what the project is and how it works. 
 
 [cc-api](https://github.com/BigData712/cc-api)
