@@ -1,4 +1,21 @@
+ <div align="center">
+ 
 # atls4214-project: Crime Crunch
+
+## Frontend 
+
+[![](https://img.shields.io/badge/ReactJS-blue?style=for-the-badge&logo=react)](https://reactjs.org/docs/getting-started.html)
+[![](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/docs)
+
+ 
+## Backend
+[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.2.x/)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/docs/)
+
+## Deployment 
+[![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/docs)
+</div>
+
 
 Welcome to the main repository for Crime Crunch, a project made by Kunal Rane, Chintan Modi, Sarthak Maniar, Ash Duy, Jaryd Meek, and Noah Nguyen for CU's ATLS 4214 - Big Data Architecture.  Code is housed in separate repositories, as described under "Navigation." 
 
